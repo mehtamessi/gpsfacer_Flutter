@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468007898468",
+    "firebase_url": "https://facedetection-a2206.firebaseio.com",
+    "project_id": "facedetection-a2206",
+    "storage_bucket": "facedetection-a2206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468007898468:android:9ae3bfeddca5e505903e71",
+        "android_client_info": {
+          "package_name": "com.gps.gpsfacer_mukesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468007898468-ibu31edbmt6anofgjk2tc5v4ebm98n86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSKQMaK7bHgjpAzIMW8CfRaWqw40ugoKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468007898468-ibu31edbmt6anofgjk2tc5v4ebm98n86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
